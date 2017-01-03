@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on sysadmin@galicia</title>
+    <link>http://sysadmin-galicia.github.io/recipes/index.xml</link>
+    <description>Recent content in Recipes on sysadmin@galicia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 19:28:41 +0200</lastBuildDate>
+    <atom:link href="http://sysadmin-galicia.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>course example one</title>
+      <link>http://sysadmin-galicia.github.io/recipes/recipe-one/</link>
+      <pubDate>Fri, 18 Nov 2016 19:28:41 +0200</pubDate>
+      
+      <guid>http://sysadmin-galicia.github.io/recipes/recipe-one/</guid>
+      <description>
+
+&lt;h1 id=&#34;this-is-a-recipe-example&#34;&gt;This is a recipe example&lt;/h1&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;To have a valid course example you can simply follow the TOML-structure below:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;date = &amp;quot;2016-11-18T19:28:41+02:00&amp;quot;
+publishdate = &amp;quot;2016-11-18T19:28:41+02:00&amp;quot;
+draft = false
+title = &amp;quot;course example one&amp;quot;
+description = &amp;quot;Short description of the course.&amp;quot;
+
+[amp]
+    elements = []
+    
+[structured]
+    type = &amp;quot;Recipe&amp;quot;
+
+[author]
+    name = &amp;quot;John Doe&amp;quot;
+
+[recipe]
+    category = &amp;quot;appetizer&amp;quot;
+    prepTime = &amp;quot;PT30M&amp;quot;
+    totalTime = &amp;quot;PT3H&amp;quot;
+    recipeYield = &amp;quot;8&amp;quot;
+    ingredients = [&amp;quot;1 box Pillsbury™ refrigerated pie crusts, softened as directed on box&amp;quot;,&amp;quot;6 cups thinly sliced, peeled apples (6 medium)&amp;quot;,&amp;quot;3/4 cup sugar&amp;quot;,&amp;quot;2 tablespoons all-purpose flour&amp;quot;,&amp;quot;3/4 teaspoon ground cinnamon&amp;quot;,&amp;quot;1/4 teaspoon salt&amp;quot;,&amp;quot;1/8 teaspoon ground nutmeg&amp;quot;,&amp;quot;1 tablespoon lemon juice&amp;quot;]
+    instructions = [&amp;quot;1 Heat oven to 425°F. Place 1 pie crust in ungreased 9-inch glass pie plate. Press firmly against side and bottom.&amp;quot;,&amp;quot;2 In large bowl, gently mix filling ingredients; spoon into crust-lined pie plate. Top with second crust. Wrap excess top crust under bottom crust edge, pressing edges together to seal; flute. Cut slits or shapes in several places in top crust.&amp;quot;,&amp;quot;3 Bake 40 to 45 minutes or until apples are tender and crust is golden brown. Cover edge of crust with 2- to 3-inch wide strips of foil after first 15 to 20 minutes of baking to prevent excessive browning. Cool on cooling rack at least 2 hours before serving.&amp;quot;]
+    
+[rating]
+    value = &amp;quot;4.0&amp;quot;
+    reviewCount = &amp;quot;12&amp;quot;
+    best = &amp;quot;4.5&amp;quot;
+    worst = &amp;quot;2.5&amp;quot;
+
+[nutrition]
+    &amp;quot;servingSize&amp;quot; = &amp;quot;1 medium slice&amp;quot;
+    &amp;quot;calories&amp;quot; = &amp;quot;230 calories&amp;quot;
+    &amp;quot;fatContent&amp;quot; = &amp;quot;1 g&amp;quot;
+    &amp;quot;carbohydrateContent&amp;quot; = &amp;quot;43 g&amp;quot;
+    &amp;quot;cholesterolContent&amp;quot; = &amp;quot;0 mg&amp;quot;
+    &amp;quot;fiberContent&amp;quot; = &amp;quot;1 g&amp;quot;
+    &amp;quot;proteinContent&amp;quot; = &amp;quot;1 g&amp;quot;
+    &amp;quot;saturatedFatContent&amp;quot; = &amp;quot;2 ½ g&amp;quot;
+    &amp;quot;sodiumContent&amp;quot; = &amp;quot;200 mg&amp;quot;
+    &amp;quot;sugarContent&amp;quot; = &amp;quot;27 g&amp;quot;
+    &amp;quot;transFatContent&amp;quot; = &amp;quot;0 g&amp;quot;
+
+
+[image]
+    src = &amp;quot;https://gohugo-amp.gohugohq.com/example-square.jpg&amp;quot;
+    width = 900
+    height = 900
+    title = &amp;quot;Example Square image&amp;quot;
+    author = &amp;quot;gohugohq&amp;quot;
+    link = &amp;quot;https://gohugohq.com&amp;quot;
+    license = &amp;quot;CC BY 2.0&amp;quot;
+    license_link = &amp;quot;https://creativecommons.org/licenses/by/2.0/&amp;quot;
+
+[sitemap]
+  changefreq = &amp;quot;monthly&amp;quot;
+  priority = 0.5
+  filename = &amp;quot;sitemap.xml&amp;quot;
+  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;p&gt;The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
