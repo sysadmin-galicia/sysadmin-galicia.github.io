@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/articles/no-amp-example/</loc>
+    <loc>//sysadmin-galicia.github.io/articles/no-amp-example/</loc>
     <lastmod>2016-11-26T19:28:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/</loc>
+    <loc>//sysadmin-galicia.github.io/</loc>
     <lastmod>2016-11-20T14:28:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/articles/article-one/</loc>
+    <loc>//sysadmin-galicia.github.io/articles/article-one/</loc>
     <lastmod>2016-11-18T19:28:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/courses/course-one/</loc>
+    <loc>//sysadmin-galicia.github.io/courses/course-one/</loc>
     <lastmod>2016-11-18T19:28:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/recipes/recipe-one/</loc>
+    <loc>//sysadmin-galicia.github.io/recipes/recipe-one/</loc>
     <lastmod>2016-11-18T19:28:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/articles/</loc>
+    <loc>//sysadmin-galicia.github.io/articles/</loc>
     <lastmod>2016-11-26T19:28:41+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/courses/</loc>
+    <loc>//sysadmin-galicia.github.io/courses/</loc>
     <lastmod>2016-11-18T19:28:41+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/recipes/</loc>
+    <loc>//sysadmin-galicia.github.io/recipes/</loc>
     <lastmod>2016-11-18T19:28:41+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sysadmin-galicia.github.io/</loc>
+    <loc>//sysadmin-galicia.github.io/</loc>
     <lastmod>2016-11-26T19:28:41+02:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipes on sysadmin@galicia</title>
-    <link>http://sysadmin-galicia.github.io/recipes/index.xml</link>
+    <link>//sysadmin-galicia.github.io/recipes/index.xml</link>
     <description>Recent content in Recipes on sysadmin@galicia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Nov 2016 19:28:41 +0200</lastBuildDate>
-    <atom:link href="http://sysadmin-galicia.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//sysadmin-galicia.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>course example one</title>
-      <link>http://sysadmin-galicia.github.io/recipes/recipe-one/</link>
+      <link>//sysadmin-galicia.github.io/recipes/recipe-one/</link>
       <pubDate>Fri, 18 Nov 2016 19:28:41 +0200</pubDate>
       
-      <guid>http://sysadmin-galicia.github.io/recipes/recipe-one/</guid>
+      <guid>//sysadmin-galicia.github.io/recipes/recipe-one/</guid>
       <description>
 
 &lt;h1 id=&#34;this-is-a-recipe-example&#34;&gt;This is a recipe example&lt;/h1&gt;
