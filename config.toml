@@ -54,13 +54,13 @@ googleAnalytics = ""
 		headline = "Puedes encontrarnos en...."
       [[params.services.list]]
         icon = "fa-meetup"
-        title = "meetup.com"
-        description= "https://www.meetup.com/Sysadmin-Galicia"
+        title = "meetup"
+        description= "[#Sysadmin@Galicia](https://www.meetup.com/Sysadmin-Galicia)"
 
       [[params.services.list]]
         icon = "fa-twitter"
         title = "twitter"
-        description = "@sysadmingalicia"
+        description = "[@sysadmingalicia](https://twitter.com/sysadmingalicia)"
 
 	# Contact section
 	[params.contact]
