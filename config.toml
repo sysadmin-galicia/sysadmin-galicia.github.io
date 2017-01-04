@@ -73,4 +73,4 @@ googleAnalytics = ""
 	[params.location]
 		latitude  = "42.2373317"
 	 	longitude = "-8.7200455"
-	 	maps_api_key = ""
+	 	maps_api_key = "AIzaSyCUYwju1dFFp_v3oJyR5xbsezIi3IFbVdM"
